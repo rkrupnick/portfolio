@@ -236,6 +236,10 @@ nav {
     padding: 0.4rem;
   }
 
+  .more-about-container {
+    display: flex;
+  }
+
   /* Skills */
   .skills {
     max-width: 68.75rem;
